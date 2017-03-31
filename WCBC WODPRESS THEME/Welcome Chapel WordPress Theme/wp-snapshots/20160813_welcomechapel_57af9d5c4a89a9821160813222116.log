@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2016-08-13 22:23:25
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.14
+WORDPRESS:	4.5.3
+PHP INFO:	5.6.2 | SAPI: apache2handler
+SERVER:		Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 25.75MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:17 | filtered:0 | create:17 
+FILTERED: [] 
+SQL CREATED: 20160813_welcomechapel_57af9d5c4a89a9821160813222116_database.sql 
+SQL FILE SIZE: 1.05MB (1103497) 
+SQL FILE TIME: 2016-08-13 22:23:26 
+SQL RUNTIME: 0.38 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Applications/MAMP/htdocs/wordpress-2 
+ARCHIVE FILE: 20160813_welcomechapel_57af9d5c4a89a9821160813222116_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	65.38MB 
+STATS:	Dirs 261 | Files 2,492 
+SQL ADDED: 20160813_welcomechapel_57af9d5c4a89a9821160813222116_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2753
+    [filename] => /Applications/MAMP/htdocs/wordpress-2/wp-snapshots/tmp/20160813_welcomechapel_57af9d5c4a89a9821160813222116_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 37.2MB 
+ARCHIVE RUNTIME: 15.16 sec. 
+MEMORY STACK: 27.5MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Applications/MAMP/htdocs/wordpress-2/wp-snapshots/tmp/20160813_welcomechapel_57af9d5c4a89a9821160813222116_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.05MB 
+Installer File: 346.06KB 
+Archive File: 37.2MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 16.86 sec.
+PEAK PHP MEMORY USED: 30MB
+DONE PROCESSING => 20160813_welcomechapel 2016-08-13 22:23:42
+ 
